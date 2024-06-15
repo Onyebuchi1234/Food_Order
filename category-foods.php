@@ -22,7 +22,7 @@ else
 {
     //Category not passed
     //Redirect to home page
-    header('location:'.SITEURL);
+    header('location:'.index.php);
 }
 ?>
 

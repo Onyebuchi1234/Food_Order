@@ -4,7 +4,7 @@
 session_start();
 
 //Create constants to store non repeating values. Constants are named with capital letter while variable are names with small letter
-define('SITEURL', 'http://localhost/FOOD%20WEBSITE/');
+define('SITEURL', 'http://localhost/Food_Order/');
 define('LOCALHOST', 'localhost');
 define('USERNAME', 'root');
 define('PASSWORD', '');
